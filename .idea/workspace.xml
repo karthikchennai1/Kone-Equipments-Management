@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06f5dc68-26ff-4ba3-94e4-c6a95cb129b0" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kone/model/Equipments.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kone/Exceptions/CustomizeResponseEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kone/service/EquipmentService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manifest.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kone/Exceptions/EquipmentNumberAlreadyExistException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="49" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kone/DemoApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/EquipmentData.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/kone/Exceptions/ExceptionResponse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/EquipmentsData.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>gre</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>S:\KONE ASSIGNMENTS\greeting-cloudant-spring\greeting-springboot-auto\src\test\java</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/greeting/spring/boot/autoconfigure/api/controller/Equipments.java" />
+        <option value="$PROJECT_DIR$/src/main/java/greeting/spring/boot/autoconfigure/api/controller/GreetingController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/greeting/spring/boot/autoconfigure/model/ExceptionResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/greeting/spring/boot/autoconfigure/model/EquipmentNumberAlreadyExistException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/greeting/spring/boot/autoconfigure/validator/EquipmentValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/greeting/spring/boot/autoconfigure/model/UserNotFoundException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/greeting/spring/boot/autoconfigure/Exceptions/ExceptionResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/greeting/spring/boot/autoconfigure/model/Equipments.java" />
+        <option value="$PROJECT_DIR$/src/main/java/greeting/spring/boot/autoconfigure/config.java" />
+        <option value="$PROJECT_DIR$/src/main/java/greeting/spring/boot/autoconfigure/VCAPHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/greeting/spring/boot/autoconfigure/api/controller/EquipmentController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/greeting/spring/boot/autoconfigure/service/EquipmentService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/greeting/spring/boot/autoconfigure/Exceptions/CustomizeResponseEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/greeting/spring/boot/autoconfigure/Exceptions/EquipmentNumberAlreadyExistException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/greeting/spring/boot/autoconfigure/Exceptions/InvalidStatusException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/greeting/spring/boot/autoconfigure/EquipmentValidator/EquipmentValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kone/Exceptions/EquipmentNotFoundException.java" />
+        <option value="$PROJECT_DIR$/manifest.yml" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/EquipmentsData.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/EquipmentData.html" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kone/DemoApplicationTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kone/api/controller/CloudantController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kone/model/Equipments.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kone/DemoApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kone/api/controller/EquipmentController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kone/api/controller/EquipmentControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kone/EquipmentValidator/EquipmentValidator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/kone/EquipmentValidator/EquipmentValidatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kone/service/EquipmentService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/kone/Exceptions/CustomizeResponseEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Equipment Mangement" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Equipment Mangement" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Equipment Mangement" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kone-equipments-mangement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kone-equipments-mangement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kone-equipments-mangement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kone-equipments-mangement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kone-equipments-mangement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kone-equipments-mangement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kone-equipments-mangement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kone-equipments-mangement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kone-equipments-mangement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kone-equipments-mangement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kone-equipments-mangement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kone-equipments-mangement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kone" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kone-equipments-mangement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kone-equipments-mangement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kone" type="462c0819:PsiDirectoryNode" />
+              <item name="EquipmentValidator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kone-equipments-mangement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kone-equipments-mangement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kone" type="462c0819:PsiDirectoryNode" />
+              <item name="Exceptions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kone-equipments-mangement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kone-equipments-mangement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kone" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kone-equipments-mangement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kone-equipments-mangement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kone" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kone-equipments-mangement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kone-equipments-mangement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kone-equipments-mangement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kone-equipments-mangement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kone-equipments-mangement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kone-equipments-mangement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kone-equipments-mangement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kone-equipments-mangement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kone-equipments-mangement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kone-equipments-mangement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kone-equipments-mangement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kone-equipments-mangement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kone" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kone-equipments-mangement" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kone-equipments-mangement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kone" type="462c0819:PsiDirectoryNode" />
+              <item name="EquipmentValidator" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558880967382" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.kone.EquipmentValidator" />
+      <recent name="com.kone.api.controller" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kone.Exceptions" />
+      <recent name="greeting.spring.boot.autoconfigure" />
+      <recent name="greeting.spring.boot.autoconfigure.Exceptions" />
+      <recent name="greeting.spring.boot.autoconfigure.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="S:\KONE ASSIGNMENTS\greeting-cloudant-spring\greeting-springboot-auto\src\main\resources\templates" />
+      <recent name="S:\KONE ASSIGNMENTS\greeting-cloudant-spring\greeting-springboot-auto\src\main\resources" />
+      <recent name="S:\KONE ASSIGNMENTS\greeting-cloudant-spring\greeting-springboot-auto\src\main\java\com\kone\Exceptions" />
+      <recent name="S:\KONE ASSIGNMENTS\greeting-cloudant-spring\greeting-springboot-auto\src\main\java\greeting\spring\boot\autoconfigure\Exceptions" />
+      <recent name="S:\KONE ASSIGNMENTS\greeting-cloudant-spring\greeting-springboot-auto" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.EquipmentValidatorTest.testValidateValidRunningStatus">
+    <configuration name="EquipmentValidatorTest.testValidateEquipmentNumberNotAlreadyExist" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kone-Equipment-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kone.EquipmentValidator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kone.EquipmentValidator" />
+      <option name="MAIN_CLASS_NAME" value="com.kone.EquipmentValidator.EquipmentValidatorTest" />
+      <option name="METHOD_NAME" value="testValidateEquipmentNumberNotAlreadyExist" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EquipmentValidatorTest.testValidateInvalidStatus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kone-Equipment-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kone.EquipmentValidator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kone.EquipmentValidator" />
+      <option name="MAIN_CLASS_NAME" value="com.kone.EquipmentValidator.EquipmentValidatorTest" />
+      <option name="METHOD_NAME" value="testValidateInvalidStatus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EquipmentValidatorTest.testValidateInvalidStoppedStatus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kone-Equipment-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kone.EquipmentValidator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kone.EquipmentValidator" />
+      <option name="MAIN_CLASS_NAME" value="com.kone.EquipmentValidator.EquipmentValidatorTest" />
+      <option name="METHOD_NAME" value="testValidateInvalidStoppedStatus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EquipmentValidatorTest.testValidateValidRunningStatus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kone-Equipment-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kone.EquipmentValidator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kone.EquipmentValidator" />
+      <option name="MAIN_CLASS_NAME" value="com.kone.EquipmentValidator.EquipmentValidatorTest" />
+      <option name="METHOD_NAME" value="testValidateValidRunningStatus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EquipmentValidatorTest.testValidateValidStoppedStatus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Kone-Equipment-management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kone.EquipmentValidator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kone.EquipmentValidator" />
+      <option name="MAIN_CLASS_NAME" value="com.kone.EquipmentValidator.EquipmentValidatorTest" />
+      <option name="METHOD_NAME" value="testValidateValidStoppedStatus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Kone-Equipment-management" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kone.DemoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EquipmentValidatorTest.testValidateValidRunningStatus" />
+        <item itemvalue="JUnit.EquipmentValidatorTest.testValidateValidStoppedStatus" />
+        <item itemvalue="JUnit.EquipmentValidatorTest.testValidateInvalidStoppedStatus" />
+        <item itemvalue="JUnit.EquipmentValidatorTest.testValidateInvalidStatus" />
+        <item itemvalue="JUnit.EquipmentValidatorTest.testValidateEquipmentNumberNotAlreadyExist" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06f5dc68-26ff-4ba3-94e4-c6a95cb129b0" name="Default Changelist" comment="" />
+      <created>1558774129245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558774129245</updated>
+      <workItem from="1558774133101" duration="19526000" />
+      <workItem from="1558847961042" duration="10880000" />
+      <workItem from="1558859676541" duration="2658000" />
+      <workItem from="1558867379605" duration="8406000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="EquipmentControllerTest_testSaveEquipment - 2019.05.26 at 16h 59m 52s.xml">
+      <configuration name="EquipmentControllerTest.testSaveEquipment" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EquipmentControllerTest_testSaveEquipment - 2019.05.26 at 17h 00m 03s.xml">
+      <configuration name="EquipmentControllerTest.testSaveEquipment" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EquipmentValidatorTest_testValidateEquipmentNotExist - 2019.05.26 at 17h 03m 15s.xml">
+      <configuration name="EquipmentValidatorTest.testValidateEquipmentNotExist" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EquipmentValidatorTest_testValidateEquipmentExist - 2019.05.26 at 17h 03m 18s.xml">
+      <configuration name="EquipmentValidatorTest.testValidateEquipmentExist" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EquipmentValidatorTest_testValidateEquipmentNumberAlreadyExist - 2019.05.26 at 17h 12m 09s.xml">
+      <configuration name="EquipmentValidatorTest.testValidateEquipmentNumberAlreadyExist" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EquipmentValidatorTest_testValidateEquipmentNumberNotAlreadyExist - 2019.05.26 at 17h 14m 51s.xml">
+      <configuration name="EquipmentValidatorTest.testValidateEquipmentNumberNotAlreadyExist" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EquipmentValidatorTest_testValidateInvalidStatus - 2019.05.26 at 17h 18m 30s.xml">
+      <configuration name="EquipmentValidatorTest.testValidateInvalidStatus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EquipmentValidatorTest_testValidateInvalidStoppedStatus - 2019.05.26 at 17h 18m 58s.xml">
+      <configuration name="EquipmentValidatorTest.testValidateInvalidStoppedStatus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EquipmentValidatorTest_testValidateValidStoppedStatus - 2019.05.26 at 17h 19m 25s.xml">
+      <configuration name="EquipmentValidatorTest.testValidateValidStoppedStatus" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EquipmentValidatorTest_testValidateValidRunningStatus - 2019.05.26 at 17h 19m 58s.xml">
+      <configuration name="EquipmentValidatorTest.testValidateValidRunningStatus" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41470000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info id="Designer" order="5" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.25637585" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="14" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" weight="0.3295302" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Bean Validation" order="5" weight="0.3295302" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3295302" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/kone/api/controller/EquipmentControllerTest.java</url>
+          <line>30</line>
+          <properties class="com.kone.api.controller.EquipmentControllerTest" method="testSaveEquipment">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/greeting/spring/boot/autoconfigure/validator/EquipmentValidator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/greeting/spring/boot/autoconfigure/model/UserNotFoundException.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/cloudant/cloudant-client/2.11.0/cloudant-client-2.11.0.jar!/com/cloudant/client/api/CloudantClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="73" column="24" selection-start-line="73" selection-start-column="24" selection-end-line="73" selection-end-column="24" />
+          <folding>
+            <element signature="e#2523#2524#0" expanded="true" />
+            <element signature="e#2576#2577#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kone/model/Greeting.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/greeting/spring/boot/autoconfigure/config.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/greeting/spring/boot/autoconfigure/VCAPHelper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/greeting/spring/boot/autoconfigure/Exceptions/ExceptionResponse.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/greeting/spring/boot/autoconfigure/Exceptions/CustomizeResponseEntity.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/index.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/Register.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kone/api/controller/GreetingController.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kone/DemoApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kone/api/controller/EquipmentControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/kone/EquipmentValidator/EquipmentValidatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="89" column="37" selection-start-line="89" selection-start-column="37" selection-end-line="89" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.12.RELEASE/spring-web-4.3.12.RELEASE.jar!/org/springframework/http/HttpStatus.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="39" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kone/api/controller/CloudantController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kone/api/controller/EquipmentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kone/EquipmentValidator/EquipmentValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="43" column="162" selection-start-line="43" selection-start-column="162" selection-end-line="43" selection-end-column="162" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kone/Exceptions/EquipmentNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kone/Exceptions/InvalidStatusException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kone/Exceptions/ExceptionResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kone/Exceptions/CustomizeResponseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kone/model/Equipments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kone/service/EquipmentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kone/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/EquipmentData.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/EquipmentsData.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/kone/Exceptions/EquipmentNumberAlreadyExistException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

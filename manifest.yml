@@ -1,0 +1,9 @@
+---
+applications:
+ - name: EquipmentMangements
+   host: kone-equipment-management
+   path: target/EquipmentMangement-1.0.jar
+   memory: 256M
+   instances: 1
+   services:
+     - Cloudant-we

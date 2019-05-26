@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		table,th, td {
+			border: 1px solid black;
+			border-collapse: collapse;
+		}
+
+		 td ,th{
+			padding: 5px;
+			text-align: left;
+		}
+
+	</style>
+</head>
+<body bgcolor='coral'>
+<h2>Kone Equipments Detail</h2>
+<div>
+	<table class="table table-striped">
+		<tr>
+			<th>EquipmentNumber</th>
+			<th>Address</th>
+			<th>Contract Start Date</th>
+			<th>Contract End Date</th>
+			<th>Status</th>
+		</tr>
+		<tr th:each="equipment : ${equipments}">
+			<td th:text="${equipment.equipmentNumber}"></td>
+			<td th:text="${equipment.address}"></td>
+			<td th:text="${equipment.startDate}"></td>
+			<td th:text="${equipment.endDate}"></td>
+			<td th:text="${equipment.status}"></td>
+		</tr>
+	</table>
+</div>
+</body>
+</html>

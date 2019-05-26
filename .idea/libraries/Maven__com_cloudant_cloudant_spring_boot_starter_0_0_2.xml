@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.cloudant:cloudant-spring-boot-starter:0.0.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cloudant/cloudant-spring-boot-starter/0.0.2/cloudant-spring-boot-starter-0.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cloudant/cloudant-spring-boot-starter/0.0.2/cloudant-spring-boot-starter-0.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/cloudant/cloudant-spring-boot-starter/0.0.2/cloudant-spring-boot-starter-0.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

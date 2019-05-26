@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		table, td {
+			border: 1px solid black;
+			border-collapse: collapse;
+		}
+
+		 td {
+			padding: 5px;
+			text-align: left;
+		}
+
+	</style>
+</head>
+<body bgcolor='coral'>
+<h2>Kone Equipment Detail</h2>
+<table class="table table-striped">
+	<tr>
+		<td><h4>EquipmentNumber: </h4></td>
+		<td><h5 th:text="${equipment.equipmentNumber}"></h5></td>
+	</tr>
+	<tr>
+		<td><h4>Address: </h4></td>
+		<td><h5 th:text="${equipment.address}"></h5></td>
+	</tr>
+	<tr>
+		<td><h4>Contract Start Date: </h4></td>
+		<td><h5 th:text="${equipment.startDate}"></h5></td>
+	</tr>
+	<tr>
+		<td><h4>Contract End Date: </h4></td>
+		<td><h5 th:text="${equipment.endDate}"></h5></td>
+	</tr>
+	<tr>
+		<td><h4>Status: </h4></td>
+		<td><h5 th:text="${equipment.status}"></h5></td>
+	</tr>
+</table>
+</body>
+</html>
